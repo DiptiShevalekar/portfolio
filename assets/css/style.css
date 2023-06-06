@@ -738,7 +738,7 @@ a:hover {
 --------------------------------------------------------------*/
 .hero {
   height: 100vh;
-  position: relative;
+  position: bottom;
   color: #fff;
 }
 
