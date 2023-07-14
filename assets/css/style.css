@@ -1,3 +1,4 @@
+
 /**
 * Template Name: DevFolio
 * Updated: Mar 10 2023 with Bootstrap v5.2.3
@@ -994,7 +995,7 @@ a:hover {
 # Portfolio Details
 --------------------------------------------------------------*/
 .portfolio-details {
-  padding-top: 40px;
+  padding-top: 100px;
 }
 
 .portfolio-details .portfolio-details-slider img {
@@ -1002,13 +1003,13 @@ a:hover {
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination {
-  margin-top: 20px;
+  margin-top: 100px;
   position: relative;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet {
-  width: 12px;
-  height: 12px;
+  width: 10px;
+  height: 10px;
   background-color: #fff;
   opacity: 1;
   border: 1px solid #0078ff;
@@ -1019,8 +1020,8 @@ a:hover {
 }
 
 .portfolio-details .portfolio-info {
-  padding: 10px;
-  box-shadow: 0px 0 30px rgba(78, 78, 78, 0.08);
+  padding: 5px;
+  box-shadow: 0px 0 10px rgba(78, 78, 78, 0.08);
 }
 
 .portfolio-details .portfolio-info h3 {
@@ -1038,7 +1039,7 @@ a:hover {
 }
 
 .portfolio-details .portfolio-info ul li+li {
-  margin-top: 10px;
+  margin-top: 1px;
 }
 
 .portfolio-details .portfolio-description {
@@ -1052,7 +1053,7 @@ a:hover {
 }
 
 .portfolio-details .portfolio-description p {
-  padding: 0;
+  padding: 10;
 }
 
 /*--------------------------------------------------------------
